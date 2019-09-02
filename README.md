@@ -22,7 +22,7 @@ foo@bar:refind$ mkdir themes
 Clone the metal directory to the themes directory:
 
 ```console
-foo@bar:refind$ git clone https://gitlab.com/perthshiretim/refind-metal-theme.git metal
+foo@bar:refind$ git clone https://gitlab.com/perthshiretim/refind-metal-theme.git themes/metal
 ```
 
 Include the `metal/theme.conf` to `refind.conf` (located in the rEFInd directory):

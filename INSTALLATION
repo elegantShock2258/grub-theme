@@ -12,7 +12,7 @@ subdirectory "themes":
 
 Clone the metal directory to the themes directory:
 
-    git clone https://gitlab.com/perthshiretim/refind-metal-theme.git metal
+    git clone https://gitlab.com/perthshiretim/refind-metal-theme.git themes/metal
 
 
 
