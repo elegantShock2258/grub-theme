@@ -1,0 +1,26 @@
+INSTALLATION
+============
+
+This theme requires rEFInd to be installed.  Change directory to the rEFInd directory, where refind_x64.efi is located
+on your system (on Linux, usually located at /boot/EFI/refind or /boot/efi/EFI/refind) and, if necessary, create the
+subdirectory "themes":
+
+    cd /boot/EFI/refind
+    mkdir themes
+
+
+
+Clone the metal directory to the themes directory:
+
+    git clone https://gitlab.com/perthshiretim/refind-metal-theme.git metal
+
+
+
+Include the metal/theme.conf to refind.conf (located in the rEFInd directory):
+
+    echo -e "\ninclude themes/metal/theme.conf\n" >> refind.conf
+
+
+
+The file theme.conf assumes a resolution of 1920x1080 for your monitor. If necessary, change this by modifying the first
+line of theme.conf to something appropriate (self-explanatory).

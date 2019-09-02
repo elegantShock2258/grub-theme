@@ -1,0 +1,165 @@
+COPYRIGHT
+=========
+
+The following files are all modified from vector files sourced on-line, from the locations listed below.
+The original logos belong to their respective owners.
+
+    boot_linux.png & os_linux.png
+        source: https://www.deviantart.com/qubodup/art/Tux-Mono-SVG-607661753
+        author: Iwan Gabovitch (https://www.deviantart.com/qubodup/)
+                based on New Tux 0.4 SVG by gg3po
+                based on Linux 2.0 Tux by Larry Ewing
+        licence: GNU General Public License version 2 or later
+
+    boot_win.png & os_win.png
+        source: https://logos.fandom.com/wiki/Microsoft_Windows?_3.1x_logo.svg
+        author: AxG (https://logos.fandom.com/wiki/User:AxG)
+        licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+    os_arch.png
+        source: https://www.archlinux.org/art/
+
+    os_bionic.png
+        source: https://en.wikipedia.org/wiki/File:Bionic_Beaver.svg
+        author: Jim McKeeth (https://en.wikipedia.org/wiki/User:Jim_McKeeth)
+        licence: Creative Commons Attribution 4.0 International
+
+    os_centos.png
+        source: https://seeklogo.com/vector-logo/272958/centos
+
+    os_chakra.png
+        source: https://commons.wikimedia.org/wiki/File:Chakra-shiny.svg
+        author: The Chakra Team
+        licence: GNU General Public License version 2 or later
+
+    os_chrome.png
+        source: https://seeklogo.com/vector-logo/157975/google-chrome
+
+    os_debian.png
+        source: https://www.debian.org/logos/
+        licence: GNU Lesser General Public License 3 or Creative Commons Attribution-ShareAlike 3.0 Unported
+
+    os_devuan.png
+        source: https://commons.wikimedia.org/wiki/File:Devuan-logo.svg
+        author: Dyne.org
+        licence: Creative Commons Attribution-ShareAlike 4.0 International
+
+    os_elementary.png
+        source: https://seeklogo.com/vector-logo/273059/elementary-os
+
+    os_fedora.png
+        source: https://seeklogo.com/vector-logo/273082/fedora
+
+    os_freebsd.png
+        source: https://seeklogo.com/vector-logo/273101/freebsd
+
+    os_frugalware.png
+        source: https://commons.wikimedia.org/wiki/File:Frugalware_linux_logo.svg
+        author: Mohammad Anwari (?)
+        licence: Public Domain
+
+    os_gentoo.png
+        source: https://www.gentoo.org/inside-gentoo/artwork/gentoo-logo.html
+        licence: Creative Commons Attribution-ShareAlike 2.5 Generic
+
+    os_haiku.png
+        source: https://seeklogo.com/vector-logo/64696/haiku-os
+
+    os_kubuntu.png
+        source: https://commons.wikimedia.org/wiki/File:Kubuntu_logo.svg
+        author: Canonical Ltd
+        licence: Public Domain
+
+    os_linuxmint.png
+        source: https://seeklogo.com/vector-logo/273608/linux-mint
+
+    os_lubuntu.png
+        source: https://commons.wikimedia.org/wiki/File:Lubuntu_logo.svg
+        licence: GNU Free Documentation License 1.2 or later
+
+    os_mac.png
+        source: https://seeklogo.net/apple-computer-file51566-download.html
+
+    os_mageia.png
+        source: https://commons.wikimedia.org/wiki/File:Mageia_logo.svg
+        author: Atelier team (https://wiki.mageia.org/en/Atelier_team)
+        licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+    os_mandriva.png
+        source: https://seeklogo.com/vector-logo/87939/mandriva-linux
+
+    os_netbsd.png
+        source: https://en.wikipedia.org/wiki/File:NetBSD.svg
+
+    os_opensuse.png
+        source: https://seeklogo.com/vector-logo/168360/suse
+
+    os_redhat.png
+        source: https://seeklogo.com/vector-logo/352454/red-hat
+
+    os_refind.png
+        source: https://sourceforge.net/projects/refind/
+
+    os_suse.png
+        source: https://seeklogo.com/vector-logo/168360/suse
+
+    os_ubuntu.png
+        source: https://design.ubuntu.com/downloads/
+        licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+    os_void.png (PD):
+        source: https://commons.wikimedia.org/wiki/File:Void_Linux_logo.svg
+        author: Juan RP (xtraeme)
+        licence: Public Domain
+
+    os_win8.png
+        source: https://logos.fandom.com/wiki/Microsoft_Windows?file=Windows_8_Logo.svg
+        author: Alex Neman (https://logos.fandom.com/wiki/User:Alex_Neman)
+        licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+    os_xubuntu.png
+        source: https://commons.wikimedia.org/wiki/File:Xubuntu_logo_and_wordmark.svg
+        author: Canonical
+        licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+
+
+The following files contain work modified from vector files sourced on-line, from the locations listed below.
+The original logos belong to their respective owners.  The remaining work is my own.
+
+    tool_apple_rescue.png
+        source: https://seeklogo.net/apple-computer-file51566-download.html
+
+    tool_windows_rescue.png
+        source: https://logos.fandom.com/wiki/Microsoft_Windows?file=Windows_8_Logo.svg
+        author: Alex Neman (https://logos.fandom.com/wiki/User:Alex_Neman)
+        licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+
+
+The following files are all my own work.  The original logos belong to their respective owners.
+    os_slackware.png
+
+
+
+The image font.png is derived from the font 5x5 Dots, available from https://www.dafont.com/5x5-dots.font.  Copyright
+2000 by dustBUST fonts - Andreas Nylin.  This font is free for all non-commercial use.
+
+
+
+The remaining files are all my own work, and are licensed under Creative Commons Attribution-ShareAlike 4.0
+International with required attribution given to myself, Tim Clarke.
+
+
+
+LICENCES
+========
+
+GNU Free Documentation License 1.2: https://www.gnu.org/licenses/old-licenses/fdl-1.2.en.html
+GNU General Public License version 2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+GNU Lesser General Public License 3: https://www.gnu.org/licenses/lgpl-3.0.en.html
+Creative Commons Attribution-ShareAlike 2.5 Generic: https://creativecommons.org/licenses/by-sa/2.5/
+Creative Commons Attribution-ShareAlike 3.0 Unported: https://creativecommons.org/licenses/by-sa/3.0/
+Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/
+Creative Commons Attribution-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-sa/4.0/
+Public Domain: https://creativecommons.org/publicdomain/zero/1.0/
