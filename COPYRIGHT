@@ -19,6 +19,9 @@ The original logos belong to their respective owners.
     os_arch.png
         source: https://www.archlinux.org/art/
 
+    os_artix.png
+        source: https://gitea.artixlinux.org/artix/artwork/src/branch/master/logo/Signet_ColorFull.svg
+
     os_bionic.png
         source: https://en.wikipedia.org/wiki/File:Bionic_Beaver.svg
         author: Jim McKeeth (https://en.wikipedia.org/wiki/User:Jim_McKeeth)
@@ -94,7 +97,7 @@ The original logos belong to their respective owners.
     os_netbsd.png
         source: https://en.wikipedia.org/wiki/File:NetBSD.svg
 
-    os_opensuse.png
+    os_opensuse.png and os_suse.png
         source: https://seeklogo.com/vector-logo/168360/suse
 
     os_redhat.png
@@ -103,8 +106,13 @@ The original logos belong to their respective owners.
     os_refind.png
         source: https://sourceforge.net/projects/refind/
 
-    os_suse.png
-        source: https://seeklogo.com/vector-logo/168360/suse
+    os_solus.png
+        source: https://getsol.us/branding/
+
+    os_solus_budgie.png
+        source: https://getsol.us/branding/
+        author: original work by Yuri Henrique, modified by Solus
+        licence: Creative Commons Attribution-ShareAlike 4.0 International
 
     os_ubuntu.png
         source: https://design.ubuntu.com/downloads/
