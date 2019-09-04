@@ -42,6 +42,11 @@ The original logos belong to their respective owners.
         source: https://www.debian.org/logos/
         licence: GNU Lesser General Public License 3 or Creative Commons Attribution-ShareAlike 3.0 Unported
 
+    os_deeping.png
+        source: https://commons.wikimedia.org/wiki/File:Deepin_logo.svg
+        licence: GNU Free Documentation License 1.2 or later
+        author: Wuhan Deepin Technology Co.,Ltd.
+
     os_devuan.png
         source: https://commons.wikimedia.org/wiki/File:Devuan-logo.svg
         author: Dyne.org
@@ -132,6 +137,9 @@ The original logos belong to their respective owners.
         source: https://commons.wikimedia.org/wiki/File:Xubuntu_logo_and_wordmark.svg
         author: Canonical
         licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+
+    os_zorin.png
+        source: https://zorinos.com/
 
 
 
