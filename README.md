@@ -36,4 +36,4 @@ first line of `theme.conf` to something appropriate (self-explanatory).
 
 ## Licence Information
 
-Attribtion and licence information for the original icons is in the file COPYRIGHT.
+Attribution and licence information for the original icons is in the file COPYRIGHT.
